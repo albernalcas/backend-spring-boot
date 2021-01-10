@@ -45,6 +45,7 @@ public class ClienteRestController {
 	}
 	
 	@PutMapping("/clientes/{id}")
+	@ResponseStatus(HttpStatus.CREATED)
 	public Cliente update(@RequestBody Cliente cliente, @PathVariable Long id) {
 		
 		Cliente clienteActual = clienteService.findbyId(id);
@@ -58,6 +59,7 @@ public class ClienteRestController {
 	}
 	
 	@DeleteMapping("/clientes/{id}")
+	@ResponseStatus(HttpStatus.NO_CONTENT)
 	public void delete(@PathVariable Long id) {
 		
 		clienteService.delete(id);
