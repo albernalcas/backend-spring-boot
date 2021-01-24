@@ -1,0 +1,10 @@
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Leidy Magaly', 'Bermudez Buitrago', 'lmbermudez@gmail', '1986-04-17');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Sara Isabella', 'Bernal Bermudez', 'sibernal@gmail.com', '2016-01-20');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Annie Sofia', 'Bernal Bermudez', 'asbernal@gmail', '2019-11-06');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Alejandro', 'Bernal Castiblanco', 'albernalca@gmail', '1981-09-17');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Jesus Antonio', 'Bernal Jimenez', 'jabernal@gmail', '1954-03-17');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Claudia', 'Castiblanco', 'ccastiblanco@gmail', '1963-06-27');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Edwin', 'Bernal Castiblanco', 'ebernal@gmail', '1989-04-30');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Henry', 'Garcia Buitrago', 'hgarciab@gmail', '1979-12-27');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Arinda', 'Buitrago Lozano', 'abuitragol@gmail', '1967-11-20');
+INSERT INTO clientes (nombre, apellido, mail, create_at) VALUES ('Kevin Santiago', 'Bermudez', 'ksbermudez@gmail', '2011-11-26');
