@@ -2,10 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Alejandro\Documents\FullStack\spring5\eclipse-workspace\backend-spring-boot\backend-spring-boot"/>
 			<item value="C:\Users\Alejandro\Documents\prig\prig-server"/>
 			<item value="C:\Users\Alejandro\Documents\FullStack\spring5\eclipse-workspace\backend-spring-boot\src"/>
 			<item value="C:\Users\Alejandro\Documents\FullStack\spring5\eclipse-workspace\backend-spring-boot"/>
-			<item value="C:\Users\Alejandro\Documents\FullStack\spring5\eclipse-workspace\backend-spring-boot\backend-spring-boot"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
